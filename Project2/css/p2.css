@@ -337,6 +337,11 @@ img{
 	padding: 0px;
 }
 
+.disclaimer{
+	color: white;
+	text-decoration: underline;
+}
+
 @media only screen and (max-width:1000px)
 {
 	h1{
